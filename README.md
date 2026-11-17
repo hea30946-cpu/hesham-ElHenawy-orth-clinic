@@ -17,3 +17,6 @@ Upload `index.html`, `style.css`, `script.js`, `robots.txt`, `sitemap.xml`, `REA
 - رقم واتساب للحجز: 01002672236، رابط wa.me بصيغة دولية.
 - أُدرجت المؤهلات والعضويات كما قدمها الطبيب، مع توضيح أنها لم تخضع للتحقق المستقل. يجب التحقق من أسماء الجهات وشهادات العضوية والزمالة قبل نشر الموقع بوصفه ملفًا مهنيًا موثقًا.
 - لا حاجة لتعديل مجلد assets إذا كانت الصور الأصلية مرفوعة بالفعل.
+
+
+V3.2: mobile overflow fixes and credentials shown as supplied by the physician without verification-status labels. Verify credential titles independently before relying on them.
