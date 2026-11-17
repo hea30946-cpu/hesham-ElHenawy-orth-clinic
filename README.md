@@ -1,24 +1,19 @@
-# موقع د. هشام الحناوي
-موقع عربي ثابت مجاني جاهز للنشر عبر GitHub Pages.
+# Elhenawy Ortho Clinic — V3
 
-## قبل النشر
-1. الصورة الأصلية موجودة بالفعل داخل `assets/doctor.jpg` دون تعديل.
-2. اللوجو الأصلي موجود بالفعل داخل `assets/logo.jpg` دون تعديل.
-3. راجع **جميع مواعيد العيادات وأرقام الحجز** في `index.html`؛ أُدرجت حسب البيانات المتاحة، وتفاصيل إدكو تحتاج استكمالًا.
-4. تحقق من المسمى المهني والخدمات قبل نشرها. لم تُدرج عضويات أو شهادات غير متحقق منها.
-5. رابط فيسبوك مستخدم كما ورد سابقًا؛ تأكد أنه يعمل.
+Static Arabic website for GitHub Pages. Uses the original supplied photo and logo, unchanged.
 
-## النشر على GitHub Pages
-1. ادخل GitHub وأنشئ مستودعًا عامًا `elhenawy-ortho-clinic`.
-2. ارفع **محتويات هذا المجلد** (وليس المجلد نفسه) إلى الفرع `main` بحيث يكون `index.html` في جذر المستودع.
-3. افتح Settings → Pages → Build and deployment → Deploy from a branch.
-4. اختر `main` و`/(root)` ثم Save.
-5. انتظر النشر وافتح `https://USERNAME.github.io/elhenawy-ortho-clinic/` مع استبدال USERNAME باسم مستخدمك.
+## Deployment
+Upload `index.html`, `style.css`, `script.js`, `robots.txt`, `sitemap.xml`, `README.md` into the repository root, and upload the **contents** of `assets/` into the existing `assets/` folder. Enable Pages from `main` / `(root)`.
 
-## التعديل
-- النصوص والعناوين والمواعيد: `index.html`
-- الألوان والتنسيق: `style.css`
-- القائمة على الهاتف والسنة: `script.js`
-- الصور الأصلية: `assets/doctor.jpg` و`assets/logo.jpg`
+## Important checks before promoting the website
+- Confirm clinic hours and phone numbers, especially Idku details.
+- No WhatsApp button is included until the clinic's WhatsApp booking number is confirmed.
+- Credentials and memberships are intentionally not asserted without verification.
+- SEO metadata does not guarantee Google indexing. Submit the sitemap in Google Search Console after ownership verification.
+- Photos are original supplied files, no AI face or logo generation.
 
-الموقع لا يجمع بيانات المرضى ولا يتضمن نموذجًا لتخزين بيانات طبية. الحجز عبر أرقام الاتصال وصفحة فيسبوك فقط.
+
+## تحديث V3.1
+- رقم واتساب للحجز: 01002672236، رابط wa.me بصيغة دولية.
+- أُدرجت المؤهلات والعضويات كما قدمها الطبيب، مع توضيح أنها لم تخضع للتحقق المستقل. يجب التحقق من أسماء الجهات وشهادات العضوية والزمالة قبل نشر الموقع بوصفه ملفًا مهنيًا موثقًا.
+- لا حاجة لتعديل مجلد assets إذا كانت الصور الأصلية مرفوعة بالفعل.
