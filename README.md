@@ -20,3 +20,7 @@ Upload `index.html`, `style.css`, `script.js`, `robots.txt`, `sitemap.xml`, `REA
 
 
 V3.2: mobile overflow fixes and credentials shown as supplied by the physician without verification-status labels. Verify credential titles independently before relying on them.
+
+
+## V3.5
+Added 3 Arabic service pages, internal links and updated sitemap. Original images, memberships, review link, Google verification and clinic data retained. Upload the files to the root of the same GitHub repository, preserving the assets folder.
